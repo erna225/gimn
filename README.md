@@ -1,1 +1,1 @@
-# gimn
+# gimnazijamn
